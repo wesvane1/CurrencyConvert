@@ -85,6 +85,7 @@ function swap(){
     var toCurr = document.getElementById("toCurrency")
 
     var fromValueForSwitch = fromCurr.value;
+    
     fromCurr.value = toCurr.value;
     toCurr.value = fromValueForSwitch;
 }
