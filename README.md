@@ -18,7 +18,5 @@ Language Used: HMTL5, CSS, JavaScript
 
 # Future Work
 
-{Make a list of things that you need to fix, improve, and add in the future.}
-
 - When the user clicks swap, it automatically converts
 - The user should also be able to select a time like USD 1949 to USD 2024, and have that convert as well
